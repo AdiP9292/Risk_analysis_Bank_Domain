@@ -1,4 +1,4 @@
-# Banking Risk Analysis - Python, SQL, Tableau 
+# Banking Risk Analysis and Customer Segmentation- Python, SQL, Tableau 
 
 ## Project Overview
 
